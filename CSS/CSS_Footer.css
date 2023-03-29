@@ -1,0 +1,50 @@
+.footer{
+	background-color: #139139;
+	position: absolute;
+	top: 730px;
+	height: 100px;
+	width: 100%;
+}
+
+.footer_copyright{
+	position: absolute;
+	top: 20px;
+	color: white;
+	left: 150px;
+}
+
+.fa{
+  font-size: 30px;
+  width: 14px;
+  text-align: center;
+  text-decoration: none;
+  position: absolute;
+  top: 35px;
+  padding: 7px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.fa-facebook{
+	background: white;
+    color: #139139;
+    font-family: Klavika;
+}
+
+.fa-twitter {
+  background: #139139;
+  color: white;
+}
+
+.fa-instagram{
+	background: #139139;
+    color: white;	
+}
+
+.top_img{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	right: 150px;
+	top: 35px;
+}
