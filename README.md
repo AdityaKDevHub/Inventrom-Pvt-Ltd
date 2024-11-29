@@ -15,12 +15,6 @@
 > | Files | Sources |
 > | ----- | ------- |
 > | Background Image | [Freepik](https://www.freepik.com/free-photos-vectors/digital-circuit) |
-> | Binary Text converted from | [Rapidtables](https://www.rapidtables.com/convert/number/ascii-to-binary.html) |
-> | Image Editing | Done By **me** |
-> | Footer Social Media Icons | [W3Schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp) |
 
 _________________
-*Project by:*
-
-## Aditya VN Kadiyala
-<aditya2010.kadiyala@gmail.com>
+#### Aditya VN Kadiyala
