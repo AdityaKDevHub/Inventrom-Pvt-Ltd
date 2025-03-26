@@ -10,6 +10,7 @@ body{
 	height: 2900px;
 	font-family: Trebuchet MS;
 	color: #000000;
+	overflow-x: hidden;
 }
 
 .logo{
