@@ -6,7 +6,7 @@
 > 
 > This is a project of Internship Design for [Bolt IoT](https://boltiot.com/).
 >
-> You can download this project and view the `index.html` file to see the contents. You may refer to this [link](https://inventrom-website.hostatic.com/) to view the preformatted form on the left hand side. However, this link contains older features.
+> You can download this project and view the `index.html` file to see the contents. Make sure you extract the folder from the .zip file. You may refer to this [link](https://inventrom-website.hostatic.com/) to view the preformatted form on the left hand side. However, this link contains older features.
 
 > ### Credits
 >
